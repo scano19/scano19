@@ -1,6 +1,6 @@
 # Sergio Cano — Sistemas de Decisión, Data Analytics e Inteligencia Artificial
 
-## Perfil profesional
+## Perfil profesional  www.sercaia.com
 
 Consultor senior en **finanzas, mercados e inversión** con más de **20 años de experiencia**, especializado en el diseño de **sistemas de decisión basados en datos e inteligencia artificial**.
 
