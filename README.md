@@ -60,7 +60,7 @@ Sistema de análisis del **mercado americano de opciones**:
 * Análisis cuantitativo y estratégico
 * Automatización de seguimiento de mercado
 * Generación de señales e insights
-* Enfoque en apoyo a la toma de decisiones, no trading automático ciego
+* Enfoque en apoyo a la toma de decisiones, busqueda de patrones para automatizar operaciones
 
 ---
 
