@@ -1,142 +1,149 @@
-# Sergio Cano — Sistemas de Decisión, Data Analytics e Inteligencia Artificial
+# Sergio Cano — Consultor Senior en IA aplicada a negocio y finanzas
 
-## Perfil profesional  
+## Perfil profesional
 
-Consultor senior en **finanzas, mercados e inversión** con más de **20 años de experiencia**, especializado en el diseño de **sistemas de decisión basados en datos e inteligencia artificial**.
+Soy consultor senior con más de **20 años de experiencia en finanzas, mercados e inversión**, habiendo trabajado casi dos décadas en una gestora de fondos y logrando durante dos años consecutivos que uno de los fondos fuera **el más rentable de España en renta variable mixta europea** (según Expansión).
 
-Mi trayectoria combina:
+Desde hace 7 años opero como **trader profesional en mercados de futuros**, y en los últimos años he evolucionado de forma natural hacia la **analítica de datos, la automatización y la inteligencia artificial aplicada**, con foco en **toma de decisiones, eficiencia operativa y diseño de sistemas de negocio reales**.
 
-* **Experiencia real en mercados financieros**
-* **Formación en Data Analytics**
-* **Diseño y ejecución de plataformas de IA aplicadas a negocio**
-
-Trabajo con un enfoque **práctico y orientado a impacto**, construyendo sistemas que automatizan decisiones, optimizan procesos y generan ventajas competitivas reales.
+Mi perfil combina **criterio financiero, visión estratégica y ejecución técnica**, orientado siempre a impacto medible y soluciones implementables.
 
 ---
 
-## Qué hago / Problemas que resuelvo
+## Formación
 
-* Diseño de **sistemas de decisión basados en datos e IA**
-* Automatización de procesos empresariales (operaciones, ventas, soporte)
-* Integración de **IA aplicada**: asistentes inteligentes, OCR, scrapers, análisis predictivo
-* Transformación de datos en **insights accionables**
-* Desarrollo de **plataformas verticales** listas para producción
+- **MBA** — Universidad de Deusto  
+- **CFA (Chartered Financial Analyst)**  
+- **Data Analytics** — The Power (SQL, Python, Power BI, Excel avanzado, macros)  
+
+La analítica de datos ha sido el **puente natural** hacia la inteligencia artificial y la automatización avanzada de procesos.
+
+---
+
+## Qué hago / Qué problemas resuelvo
+
+- Diseño **sistemas de decisión basados en datos e IA** para negocio, inversión y producto.
+- Desarrollo **automatizaciones inteligentes** que reducen carga operativa y errores humanos.
+- Integro **IA aplicada** en asistentes expertos, OCR, RAG, análisis predictivo y sistemas de recomendación.
+- Transformo información compleja en **insights accionables para la toma de decisiones**.
+- Construyo **plataformas reales en producción**, no demos ni prototipos teóricos.
 
 ---
 
 ## Cómo trabajo
 
-1. **Primero el problema**, después la tecnología
-2. Uso **Data Analytics como base**, no como fin
-3. Integro **IA solo donde aporta valor real**
-4. Diseño sistemas **implementables y escalables**, no demos académicas
+1. **Primero el negocio y el problema**, después la tecnología.  
+2. Diseño sistemas con **impacto, viabilidad y escalabilidad real**.  
+3. Combino **datos, IA y automatización** solo donde aportan valor.  
+4. Entrego soluciones **ejecutables, medibles y mantenibles**.  
 
 ---
 
-## Repositorios y plataformas destacadas
+## Ecosistema de plataformas y proyectos
 
-### 🔹 AI Healthcare Platform (Flagship)
+### 🔹 Consultoría estratégica en IA (flagship)
+**Repositorio:** `sercaia-consulting-platform`  
+**Web:** https://www.sercaia.com  
 
-**Repositorio:** `ai-healthcare-platform` **web: www.opticaia.shop
-
-Plataforma modular de IA aplicada a **salud, bienestar y estética**.
-
-* Automatización de citas y atención al cliente
-* Chatbots multilingües
-* Probadores virtuales y análisis visual
-* Casos reales: ópticas, clínicas y centros de estética
-
-Este repositorio actúa como **framework base reutilizable** para diferentes verticales sanitarios.
+Plataforma central de consultoría estratégica en IA donde se integran:
+- Diagnóstico automatizado de negocio
+- Identificación de casos de uso de IA y automatización
+- Propuestas estratégicas priorizadas
+- Demos funcionales orientadas a decisión ejecutiva  
 
 ---
 
-### 🔹 AI Investing Platform
+### 🔹 AI Healthcare Platform — Caso real vendible
+**Repositorio:** `ai-healthcare-platform`  
+**Web:** https://www.opticaia.shop  
 
-**Repositorio:** `ai-investing-platform`
-**Web:** [https://www.optionsia.com](https://www.optionsia.com)
+Plataforma aplicada inicialmente a ópticas:
+- Web completa con chatbot multilingüe
+- Citas automatizadas
+- Venta online
+- Probador virtual de gafas con IA
+- Asistente de voz
+- Automatización interna de procesos
+- Agregación de contenido y promociones multicanal  
 
-Sistema de análisis del **mercado americano de opciones**:
-
-* Análisis cuantitativo y estratégico
-* Automatización de seguimiento de mercado
-* Generación de señales e insights
-* Enfoque en apoyo a la toma de decisiones, busqueda de patrones para automatizar operaciones
+Diseñada como **modelo replicable** para otros sectores sanitarios (dentistas, dermatólogos, etc.).
 
 ---
 
-### 🔹 AutonomoIA Platform
+### 🔹 AI Finance Platform — OptionsIA
+**Repositorio:** `ai-finance-platform`  
+**Web:** https://www.optionsia.com  
 
-**Repositorio:** `autonomoia-platform`
-**Web:** [https://autonomoia.es](https://autonomoia.es)
+Sistema avanzado de análisis del mercado de **opciones americanas**, reflejo directo de mi trayectoria en mercados financieros:
+- Análisis técnico y estructural de opciones
+- Detección de patrones y movimientos relevantes
+- Enfoque global y escalable
+- Base para newsletter diaria y servicios premium de bajo coste frente a competidores tradicionales  
 
-Plataforma integral para autónomos:
+---
 
-* OCR de facturas desde móvil
-* Contabilización automática
-* Resolución de dudas fiscales mediante IA
-* Automatización de obligaciones recurrentes
+### 🔹 AutónomoIA Platform
+**Repositorio:** `autonomoia-platform`  
+**Web:** https://www.autonomoia.es  
 
-Diseñada como **app web y móvil**, enfocada en simplicidad y ahorro de tiempo.
+Aplicación para autónomos que permite:
+- Captura de facturas desde el móvil
+- OCR y contabilización automática
+- Resolución de dudas fiscales con IA
+- Dashboard fiscal y contable en tiempo real
+- Automatización de obligaciones recurrentes  
+
+Disponible para **web, desktop y móvil**.
 
 ---
 
 ### 🔹 AI Automation Platform
+**Repositorio:** `ai-automation-platform`  
 
-**Repositorio:** `ai-automation-platform`
+Casos reales de automatización con:
+- n8n
+- Asistentes personales y de voz
+- Automatización de ventas
+- Scrapers de datos
+- Generación y distribución de contenido
+- Optimización de inventario y operaciones  
 
-Arquitectura de automatizaciones con IA:
+Cada subproyecto está documentado como **problema → sistema → impacto**.
 
-* Integración de APIs
-* Automatización de procesos empresariales
-* Asistentes personales y de voz
-* Scraping de información y workflows inteligentes
+---
 
-Aplicable a sectores como **healthcare, finanzas, CRM y operaciones internas**.
+### 🔹 Data Analytics Platform
+**Repositorio:** `data-analytics-platform`  
+
+Base metodológica de todo el ecosistema:
+- Proyectos iniciales de aprendizaje (contexto)
+- Proyecto final avanzado, desarrollado en **3 semanas gracias a IA**, frente a los **3 meses** del primer proyecto
+- Punto de transición claro hacia automatización e inteligencia artificial aplicada  
 
 ---
 
 ### 🔹 AI Education Platform
+**Repositorio:** `ai-education-platform`  
+**Web:** https://www.campusia.es  
 
-**Repositorio:** `ai-education-platform`
+Plataforma educativa en construcción que integra:
+- Ajedrez
+- Inglés&frances
+- Piano
+- Matemáticas
+- Robótica
+- Introducción a la IA para niños  
 
-Plataforma educativa modular con IA:
-
-* Ajedrez educativo
-* Idiomas (inglés/francés)
-* Piano educativo
-* Gestión digital de AMPAs
-
-Diseñada para colegios, academias y entornos familiares, con enfoque en **aprendizaje adaptativo**.
-
----
-
-### 🔹 Data Analytics Portfolio
-
-**Repositorio:** `data-analytics-portfolio`
-
-Base metodológica de mi transición técnica:
-
-* EDA
-* SQL
-* Python
-* Proyecto final de análisis completo
-
-Este repositorio demuestra **criterio analítico, estructura y capacidad de convertir datos en decisiones**, base de todos los sistemas posteriores.
+Diseñada para colegios, academias y AMPAs.
 
 ---
 
-## Enfoque profesional
+## Enlaces
 
-No desarrollo proyectos académicos ni experimentales.
-Cada repositorio representa:
-
-> **Un problema real → un sistema diseñado → un impacto medible**
-
----
-
-## Contacto
-
-* GitHub: [https://github.com/scano19](https://github.com/scano19)
-* LinkedIn: *(añadir cuando quieras)*
+- 🌐 Web de consultoría: https://www.sercaia.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sergio-cano-echaniz  
+- 📊 GitHub: https://github.com/scano19  
 
 ---
+
+*Este perfil refleja una trayectoria orientada a la toma de decisiones, el impacto real y la ejecución de sistemas basados en datos e inteligencia artificial.*
