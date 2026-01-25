@@ -1,104 +1,120 @@
-# Sergio Cano — Consultor Senior en IA aplicada a negocio y finanzas
+Sergio Cano
+AI Strategy · Data Analytics · Automation Platforms
 
-## Perfil profesional
+Inversor profesional independiente especializado en mercados derivados y análisis cuantitativo, con enfoque en estrategia, gestión del riesgo y automatización mediante inteligencia artificial.
 
-Soy consultor senior con más de **20 años de experiencia en finanzas, mercados e inversión**, habiendo trabajado casi dos décadas en una gestora de fondos y logrando durante dos años consecutivos que uno de los fondos fuera **el más rentable de España en renta variable mixta europea** (según Expansión).
+Perfil híbrido negocio + datos + IA, con experiencia en diseño de plataformas digitales, automatización de procesos y desarrollo de productos basados en inteligencia artificial aplicados a sectores reales.
 
-Desde hace 7 años opero como **trader profesional en mercados de futuros**, y en los últimos años he evolucionado de forma natural hacia la **analítica de datos, la automatización y la inteligencia artificial aplicada**, con foco en **toma de decisiones, eficiencia operativa y diseño de sistemas de negocio reales**.
+🧠 Enfoque profesional
 
-Mi perfil combina **criterio financiero, visión estratégica y ejecución técnica**, orientado siempre a impacto medible y soluciones implementables.
+Trabajo en la intersección entre:
 
----
+Estrategia empresarial y toma de decisiones
 
-## Formación
+Data Analytics y modelos cuantitativos
 
-- **MBA** — Universidad de Deusto  
-- **CFA (Chartered Financial Analyst)**  
-- **Data Analytics** — The Power (SQL, Python, Power BI, Excel avanzado, macros)  
+Automatización inteligente y asistentes de IA
 
-La analítica de datos ha sido el **puente natural** hacia la inteligencia artificial y la automatización avanzada de procesos.
+Producto digital orientado a negocio real
 
----
+Mi objetivo es convertir la inteligencia artificial en ventaja competitiva tangible, no en experimentación teórica.
 
-## Qué hago / Qué problemas resuelvo
+🎓 Formación
 
-- Diseño **sistemas de decisión basados en datos e IA** para negocio, inversión y producto.
-- Desarrollo **automatizaciones inteligentes** que reducen carga operativa y errores humanos.
-- Integro **IA aplicada** en asistentes expertos, OCR, RAG, análisis predictivo y sistemas de recomendación.
-- Transformo información compleja en **insights accionables para la toma de decisiones**.
-- Construyo **plataformas reales en producción**, no demos ni prototipos teóricos.
+MBA – Estrategia, finanzas y dirección empresarial
 
----
+CFA (formación financiera avanzada) – Mercados, derivados y gestión del riesgo
 
-## Cómo trabajo
+Data Analytics – SQL, Python, Power BI, Excel avanzado (macros)
 
-1. **Primero el negocio y el problema**, después la tecnología.  
-2. Diseño sistemas con **impacto, viabilidad y escalabilidad real**.  
-3. Combino **datos, IA y automatización** solo donde aportan valor.  
-4. Entrego soluciones **ejecutables, medibles y mantenibles**.  
+Automatización e IA – n8n, asistentes de voz, flujos inteligentes, LLMs
 
----
+🚀 Plataformas y proyectos principales
+🔹 SercaIA – AI Consulting Platform
 
-## Ecosistema de plataformas y proyectos
+🌐 https://www.sercaia.com
 
-### 🔹 Consultoría estratégica en IA (flagship)
-**Repositorio:** `sercaia-consulting-platform`  
-**Web:** https://www.sercaia.com  
+Plataforma de consultoría estratégica de IA automatizada para empresas.
+Combina formularios inteligentes, análisis estratégico automático, propuestas de automatización y demos funcionales.
 
-Plataforma central de consultoría estratégica en IA donde se integran:
-- Diagnóstico automatizado de negocio
-- Identificación de casos de uso de IA y automatización
-- Propuestas estratégicas priorizadas
-- Demos funcionales orientadas a decisión ejecutiva  
+Punto central desde el que se articulan el resto de proyectos.
 
----
+🔹 AI Healthcare Platform
 
-### 🔹 AI Healthcare Platform — Caso real vendible
-**Repositorio:** `ai-healthcare-platform`  
-**Web:** https://www.opticaia.shop  
+Caso destacado: OpticaIA
+🌐 https://www.opticaia.shop
 
-Plataforma aplicada inicialmente a ópticas:
-- Web completa con chatbot multilingüe
-- Citas automatizadas
-- Venta online
-- Probador virtual de gafas con IA
-- Asistente de voz
-- Automatización interna de procesos
-- Agregación de contenido y promociones multicanal  
+Soluciones de IA aplicadas a salud privada (ópticas, extensible a clínicas dentales, dermatología, etc.):
 
-Diseñada como **modelo replicable** para otros sectores sanitarios (dentistas, dermatólogos, etc.).
+Web inteligente
 
----
+Chatbot multidioma
 
-### 🔹 AI Finance Platform — OptionsIA
-**Repositorio:** `ai-finance-platform`  
-**Web:** https://www.optionsia.com  
+Gestión de citas automatizada
 
-Sistema avanzado de análisis del mercado de **opciones americanas**, reflejo directo de mi trayectoria en mercados financieros:
-- Análisis técnico y estructural de opciones
-- Detección de patrones y movimientos relevantes
-- Enfoque global y escalable
-- Base para newsletter diaria y servicios premium de bajo coste frente a competidores tradicionales  
+Venta online y probador virtual
 
----
+Asistente de voz
 
-### 🔹 AutónomoIA Platform
-**Repositorio:** `autonomoia-platform`  
-**Web:** https://www.autonomoia.es  
+Automatización de tareas internas
 
-Aplicación para autónomos que permite:
-- Captura de facturas desde el móvil
-- OCR y contabilización automática
-- Resolución de dudas fiscales con IA
-- Dashboard fiscal y contable en tiempo real
-- Automatización de obligaciones recurrentes  
+Agregación de contenido web y redes sociales
 
-Disponible para **web, desktop y móvil**.
+Producto 100% vendible y escalable por sector.
 
----
+🔹 AI Finance Platform (OptionsIA)
 
-### 🔹 AI Automation Platform
-**Repositorio:** `ai-automation-platform`  
+🌐 https://www.optionsia.com
+
+Plataforma avanzada de análisis de opciones del mercado americano:
+
+Enfoque cuantitativo y técnico
+
+Análisis de patrones y flujo de mercado
+
+Newsletter diaria gratuita
+
+Evolución hacia análisis intradiario premium a bajo coste
+
+Proyecto global con fuerte potencial de crecimiento.
+
+🔹 AutonomoIA Platform
+
+🌐 https://www.autonomoia.es
+
+Aplicación web y móvil para autónomos, orientada a simplificar:
+
+Obligaciones administrativas
+
+Tareas recurrentes
+
+Automatización de procesos
+
+Asistentes inteligentes personalizados
+
+Desplegada en GitHub + Vercel.
+
+🔹 AI Education Platform (CampusIA)
+
+🌐 https://www.campusia.es
+
+Plataforma educativa orientada a niños y jóvenes:
+
+Inglés
+
+Ajedrez
+
+Piano educativo
+
+Matemáticas
+
+Robótica
+
+Inteligencia Artificial
+
+Proyecto en fase de construcción con fuerte foco pedagógico y tecnológico.
+
+🔹 AI Automation platform
 
 Casos reales de automatización con:
 - n8n
@@ -106,43 +122,38 @@ Casos reales de automatización con:
 - Automatización de ventas
 - Scrapers de datos
 - Generación y distribución de contenido
-- Optimización de inventario y operaciones  
+- Optimización de inventario y operaciones
 
-Cada subproyecto está documentado como **problema → sistema → impacto**.
-
----
-
-### 🔹 Data Analytics Platform
-**Repositorio:** `data-analytics-platform`  
+🔹 Data Analytics Platform
 
 Base metodológica de todo el ecosistema:
 - Proyectos iniciales de aprendizaje (contexto)
 - Proyecto final avanzado, desarrollado en **3 semanas gracias a IA**, frente a los **3 meses** del primer proyecto
-- Punto de transición claro hacia automatización e inteligencia artificial aplicada  
+- Punto de transición claro hacia automatización e inteligencia artificial aplicada
 
----
+🛠️ Stack principal
 
-### 🔹 AI Education Platform
-**Repositorio:** `ai-education-platform`  
-**Web:** https://www.campusia.es  
+Lenguajes: Python, SQL, JavaScript
 
-Plataforma educativa en construcción que integra:
-- Ajedrez
-- Inglés&frances
-- Piano
-- Matemáticas
-- Robótica
-- Introducción a la IA para niños  
+Data: Power BI, Excel avanzado, análisis cuantitativo
 
-Diseñada para colegios, academias y AMPAs.
+IA: LLMs, asistentes conversacionales, voice bots
 
----
+Automatización: n8n, APIs, workflows
 
-## Enlaces
+Producto: GitHub, Vercel, Web platforms
 
-- 🌐 Web de consultoría: https://www.sercaia.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/sergio-cano-echaniz  
-- 📊 GitHub: https://github.com/scano19  
+
+📫 Contacto y colaboración
+
+🌐 https://www.sercaia.com
+
+💼 Consultoría estratégica de IA
+
+🤝 Colaboraciones en proyectos data / IA / automatización
+
+💼 LinkedIn: https://www.linkedin.com/in/sergio-cano-echaniz  
+📊 GitHub: https://github.com/scano19  
 
 ---
 
