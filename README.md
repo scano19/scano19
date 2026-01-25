@@ -1,30 +1,35 @@
-# Sergio Cano Echaniz  
-**Consultor estratégico en Inteligencia Artificial, Data y Automatización**
+# Sergio Cano   
+**Consultor estratégico en Inteligencia Artificial, Data y Sistemas de Decisión**
 
 ---
 
 ## Perfil profesional
 
-Consultor senior con más de **20 años de experiencia en finanzas, inversión y mercados**, y una evolución natural hacia la **analítica de datos, automatización e inteligencia artificial aplicada a negocio**.
+Gestor de fondos de inversión y consultor senior con más de **20 años de experiencia en mercados financieros**, inversión y gestión profesional de activos, con una evolución natural hacia la **analítica de datos, automatización e inteligencia artificial aplicada a negocio y toma de decisiones**.
 
-Soy **Inversor profesional independiente**, especializado en **mercados derivados y análisis cuantitativo**, con un enfoque claro en **estrategia, gestión del riesgo y automatización mediante IA**.
+He desarrollado la mayor parte de mi carrera como **gestor de fondos de inversión**, obteniendo resultados destacados y verificables:
+
+- **Fondo más rentable de España** en renta variable mixta europea en **2015 y 2016**, según *Expansión*  
+- **Fondo más rentable de Europa** en renta variable mixta europea en **2017**, según *Lipper*
+
+Actualmente actúo como **Inversor profesional independiente**, especializado en **mercados derivados y análisis cuantitativo**, y como consultor en **diseño de sistemas de decisión basados en datos e IA**.
 
 Mi perfil combina:
-- Visión estratégica (MBA)
-- Rigor financiero (CFA)
-- Capacidad analítica (Data Analytics)
-- Ejecución técnica (IA y automatización)
+- **Visión estratégica y de negocio** (MBA)
+- **Rigor financiero y gestión del riesgo** (CFA)
+- **Capacidad analítica avanzada** (Data Analytics)
+- **Ejecución técnica en IA y automatización**
 
-Trabajo con un objetivo claro: **convertir información compleja en decisiones accionables y sistemas reales en producción**.
+Mi foco es claro: **convertir información compleja en decisiones accionables y sistemas reales en producción**.
 
 ---
 
 ## Qué hago / Problemas que resuelvo
 
-- Diseño de **sistemas de decisión basados en datos e IA**
-- Automatización de procesos empresariales de alto impacto
-- Integración de **asistentes inteligentes y asistentes de voz**
-- Optimización de operaciones, ventas e inventario
+- Diseño de **sistemas de decisión basados en datos e inteligencia artificial**
+- Automatización de procesos empresariales con impacto directo en eficiencia y costes
+- Integración de **IA aplicada** a asistentes, análisis y operaciones
+- Transformación de datos complejos en **insights accionables**
 - Desarrollo de **productos digitales escalables y monetizables**
 
 ---
@@ -32,16 +37,16 @@ Trabajo con un objetivo claro: **convertir información compleja en decisiones a
 ## Cómo trabajo
 
 1. **Primero el problema**, no la tecnología  
-2. Enfoque en **impacto real y viabilidad**
-3. Integración de **data, IA y automatización** solo donde aporta valor
-4. Sistemas pensados para **operar, escalar y monetizar**
+2. Priorizo **impacto real, control del riesgo y viabilidad**
+3. Integro **datos, IA y automatización** solo cuando aportan ventaja competitiva
+4. Diseño sistemas pensados para **operar, escalar y monetizar**
 
 ---
 
 ## Ecosistema de proyectos
 
-### **AI Healthcare Platform**
-Plataforma flagship de IA aplicada a salud privada, diseñada como modelo escalable para distintos sectores.
+### **AI Healthcare Platform** (Flagship)
+Plataforma de IA aplicada a salud privada, diseñada como modelo escalable a otros sectores.
 
 **Caso real en producción:**  
 👉 https://www.opticaia.shop  
@@ -76,7 +81,7 @@ Proyecto con **alto potencial internacional**.
 ---
 
 ### **AI Automation Platform**
-Casos reales de automatización empresarial con impacto directo en eficiencia y costes.
+Casos reales de automatización empresarial con impacto directo en operaciones y resultados.
 
 Incluye:
 - Workflows con **n8n**
@@ -84,16 +89,14 @@ Incluye:
 - Automatización de ventas
 - Scrapers de datos
 - Generación y distribución de contenido
-- Optimización de inventario y operaciones
-
-Plataforma transversal que conecta data, IA y procesos reales de negocio.
+- Optimización de inventario y procesos
 
 ---
 
 ### **Data Analytics Platform**
 Base metodológica de todo el ecosistema.
 
-Curso profesional realizado en **The Power**, donde adquirí competencias en:
+Formación profesional en **The Power**, con competencias en:
 - SQL
 - Python
 - Power BI
@@ -103,7 +106,7 @@ Incluye:
 - Proyectos iniciales (contexto formativo)
 - **Proyecto final avanzado**, desarrollado en **3 semanas gracias a IA**, frente a los **3 meses** del primer proyecto
 
-Este punto marca la **transición clara hacia la IA aplicada y la automatización**.
+Este punto marca la transición hacia la **IA aplicada y la automatización**.
 
 ---
 
@@ -113,11 +116,10 @@ Plataforma educativa con IA orientada a niños, familias y centros educativos.
 🌐 https://www.campusia.es  
 
 Incluye:
-- Academia de inglés
+- Inglés
 - Ajedrez educativo
 - Piano educativo
-- Matemáticas y robótica
-- Introducción a IA para niños
+- Matemáticas, robótica e introducción a IA
 - Gestión digital de AMPAs
 
 Proyecto en fase de construcción, con base sólida de concepto y arquitectura.
@@ -126,37 +128,18 @@ Proyecto en fase de construcción, con base sólida de concepto y arquitectura.
 
 ## Stack principal
 
-### Lenguajes
-- Python
-- SQL
-- JavaScript
-
-### Data & Analytics
-- Power BI
-- Excel avanzado
-- Análisis cuantitativo
-
-### Inteligencia Artificial
-- LLMs
-- Asistentes conversacionales
-- Voice bots
-
-### Automatización
-- n8n
-- APIs
-- Workflows
-
-### Producto y despliegue
-- GitHub
-- Vercel
-- Web platforms
+**Lenguajes:** Python, SQL, JavaScript  
+**Data:** Power BI, Excel avanzado, análisis cuantitativo  
+**IA:** LLMs, asistentes conversacionales, voice bots  
+**Automatización:** n8n, APIs, workflows  
+**Producto:** GitHub, Vercel, Web platforms  
 
 ---
 
 ## Contacto y colaboración
 
 🌐 https://www.sercaia.com  
-💼 Consultoría estratégica de IA  
+💼 Consultoría estratégica de IA y sistemas de decisión  
 🤝 Colaboraciones en proyectos de Data, IA y Automatización  
 
 LinkedIn: https://www.linkedin.com/in/sergio-cano-echaniz  
