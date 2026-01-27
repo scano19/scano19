@@ -52,7 +52,7 @@ Gestor de fondos de inversión y consultor senior con más de **20 años de expe
 He desarrollado la mayor parte de mi carrera como **gestor de fondos de inversión**, obteniendo resultados destacados y verificables:
 
 - **Fondo más rentable de España** en renta variable mixta europea en **2015 y 2016**, según *Expansión*  
-- **Fondo más rentable de Europa** en renta variable mixta europea en **2017**, según *Lipper*
+- **Fondo más rentable de Europa** en renta variable mixta europea en un momento del **2017**, según *Lipper*
 
 Actualmente actúo como **Inversor profesional independiente**, especializado en **mercados derivados y análisis cuantitativo**, y como consultor en **diseño de sistemas de decisión basados en datos e IA**.
 
